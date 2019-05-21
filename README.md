@@ -26,11 +26,16 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+ReactJs is a javascript library and the problems it trys to solve is maintaing the state of a  web application and being able to compartmentalize components of a web application to make it overall easier to update or maintain.
+
 - [ ] What does it mean to _think_ in react?
+Thinking in react is breaking down sections of a web application into maintainable components.
 
 - [ ] Describe state.
+State is where your data lives.State allows you to create components that are dynamic and can be easily updated.
 
 - [ ] Describe props.
+Props is how your data(which is in the state) is passed down to components.
 
 ## Project Set Up
 
